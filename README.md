@@ -21,13 +21,7 @@ The design includes:
 
 ---
 
-## Preview
 
-![Preview](./preview.png)
-
-Add a screenshot of your project and name it `preview.png` to display it here.
-
----
 
 ## Tech Stack
 
