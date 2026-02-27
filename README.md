@@ -33,4 +33,28 @@ The design includes:
 ---
 
 ## Folder Structure
-# vercal
+vercel-clone/
+│
+├── index.html
+├── style.css
+└── README.md
+
+
+
+---
+
+## Features
+
+- Dark theme layout inspired by Vercel
+- Clean and minimal user interface
+- Grid-based background in hero section
+- Fully responsive footer layout
+- Reusable button styles
+- Hover effects using CSS
+- No JavaScript required
+
+---
+
+
+
+
